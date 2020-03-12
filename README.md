@@ -8,3 +8,8 @@
   - 여정훈
   - 정지훈
   - 김형준
+  * Frontend
+  * HTML
+  * CSS
+  * JavaScript
+    * Vue.js
